@@ -12,7 +12,7 @@
 - :point_right:GitHub，[欣哥1024](https://github.com/MrLollipop)
   
   
-# 📫哪里去找我
+# 📫去哪里找我
 
 <!---
 MrLollipop/MrLollipop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
